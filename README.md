@@ -1,4 +1,4 @@
-# practice_app1
+# Calcee
 
 <h2>Its an Calculator with different look</h2>
 
