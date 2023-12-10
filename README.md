@@ -9,4 +9,4 @@
 </ul>
 
 <h1>Screenshot of APP</h1>
-<img src="Screenshot.jpeg" alt="Screenshot">
+<img src="Screenshot.jpg" alt="Screenshot">
