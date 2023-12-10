@@ -1,16 +1,12 @@
 # practice_app1
 
-A new Flutter project.
+<h2>Its an Calculator with different look</h2>
 
-## Getting Started
+<ul>
+  <li>Its is my first ever mobile app.By developing this app i learnt about different widgets and to perform operation on widgets.</li>
+  <li>Explored various methods of Stateful Widgets.</li>
+  <li>Learnt about the LifeCycle of Stateless Widget and Stateful Widget.</li>  
+</ul>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Screenshot of APP</h1>
+<img src="https://drive.google.com/file/d/15ugMgFlzr8-w1qLI5UX6fsK_ZmuWYRqD/view?usp=drive_link" alt="Screenshot">
