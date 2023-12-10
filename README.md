@@ -9,4 +9,4 @@
 </ul>
 
 <h1>Screenshot of APP</h1>
-<img src="https://drive.google.com/file/d/15ugMgFlzr8-w1qLI5UX6fsK_ZmuWYRqD/view?usp=drive_link" alt="Screenshot">
+<img src="Screenshot.jpeg" alt="Screenshot">
